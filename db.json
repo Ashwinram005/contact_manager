@@ -1,0 +1,29 @@
+{
+  "contacts": [
+    {
+      "name": "ASHWINRAM M",
+      "emailid": "ashwinrammohan2005@gmail.com",
+      "id": "0731a3fa-0df6-4db8-ba10-e870f32f9e0a"
+    },
+    {
+      "name": "JEEVAN",
+      "emailid": "jeevangandhi@goat.com",
+      "id": "d639b7a2-f3da-4e9b-9529-79aeb81ee61a"
+    },
+    {
+      "name": "SANJAY",
+      "emailid": "sanjayrajiv@ogvillain.com",
+      "id": "3b30442d-1a46-45dd-ae92-4903273d2f06"
+    },
+    {
+      "name": "GOPAL CHAMY M",
+      "emailid": "gopalchamy2004@gmail.com",
+      "id": "e4ab6a27-e147-4eda-9a3a-0d2b6e877edb"
+    },
+    {
+      "id": "d2c0e2ec-6200-46da-9b96-665eda4f94af",
+      "name": "PARTHIBAN",
+      "emailid": "leo@das.com"
+    }
+  ]
+}
