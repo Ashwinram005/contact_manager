@@ -6,7 +6,6 @@
     import AddContact from "./AddContact";
     import ContactDetail from "./ContactDetail";
     import Contactdelete from "./Contactdelete";
-    import api from '../api/contacts';
     import { v4 as uuidv4 } from 'uuid';
     import EditContact from "./EditContact";
     import { addDoc, collection, getDocs,deleteDoc, doc,updateDoc } from "firebase/firestore";
