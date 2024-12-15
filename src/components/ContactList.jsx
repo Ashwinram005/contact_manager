@@ -14,7 +14,7 @@ const ContactList = (props) => {
         );
     });
 
-    const getSearchTerm = () => {
+    const getSearchTerm = () => {   
         props.searchkeyword(inputRef.current.value);
     };
 

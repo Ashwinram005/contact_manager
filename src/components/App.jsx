@@ -14,7 +14,7 @@
     function App() {
         const  [contacts,setContacts]=useState([]);
         const  [searchcontact,setSearchContact]=useState("");
-        const  [searchResult,setSearchResult]=useState([]);
+        const  [searchResult,setSearchResult]=useState(contacts);
 
         //Retrieve contacts
         const retrieveContacts = async () => {
